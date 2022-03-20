@@ -13,5 +13,6 @@ note: The .exe and .py are the same code but the exe is ready to go and with the
 To get started launch the Setup.bat file it will create a shortcut on the desktop for
 the program and create a default downloads folder at C:users\user\Videos\Pytube_Downloads
 
-If you encounter any errors contact me
 If you move the entire directory you will need to make a new shortcut using Setup.bat
+
+If you encounter any errors contact me
