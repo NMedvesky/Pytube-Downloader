@@ -1,0 +1,2 @@
+md "%USERPROFILE%\Videos\Pytube_Downloads"
+call shortcutJS.bat -linkfile "%USERPROFILE%\Desktop\Pytube Downloader.lnk" -target  "%CD%\pytube_downloader.exe" -iconlocation "%CD%\Youtube.ico" -workingdirectory "%CD%"
