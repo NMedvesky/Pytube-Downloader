@@ -7,6 +7,7 @@ If you want to download this there are 3 ways
 1. Download just the zip and unzip it which will have all the files except the .py
 2. Download all the files except the .zip and .py
 3. Download all the files except the .zip and .exe and use a Python interpriter to run it
+
 note: The .exe and .py are the same code but the exe is ready to go and with the .py it requires a Python interpriter
 
 To get started launch the Setup.bat file it will create a shortcut on the desktop for
